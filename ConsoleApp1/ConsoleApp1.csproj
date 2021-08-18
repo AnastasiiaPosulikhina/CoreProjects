@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ApplicationIcon>C:\Users\Anastasiia.Posulikhi\Desktop\JB\Icons\MyIcon.ico</ApplicationIcon>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Include="..\..\..\Desktop\JB\Icons\MyIcon.ico">
+        <Link>MyIcon.ico</Link>
+      </None>
+    </ItemGroup>
+
+</Project>
