@@ -3,7 +3,39 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <RootNamespace>ConsoleApp3</RootNamespace>
-        <TargetFramework>net6.0</TargetFramework>
+        <TargetFramework>net5.0</TargetFramework>
+        <ApplicationIcon>MyIcon2.ico</ApplicationIcon>
     </PropertyGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Update="File.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>File.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="File.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>File.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="File.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>File.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="File.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>file.Designer.vb</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="ff.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>ff.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="ff.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>ff.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="File.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>File.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+    </ItemGroup>
 
 </Project>

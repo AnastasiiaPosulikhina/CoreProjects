@@ -4,13 +4,21 @@
         <OutputType>Exe</OutputType>
         <TargetFramework>net6.0</TargetFramework>
         <Nullable>enable</Nullable>
-        <ApplicationIcon>MyIcon3.ico</ApplicationIcon>
     </PropertyGroup>
 
     <ItemGroup>
+      <None Include="..\..\..\Desktop\JB\Icons\256_icon_with_a_very_very_very_long_name.ico">
+        <Link>256_icon_with_a_very_very_very_long_name.ico</Link>
+      </None>
       <None Include="..\..\..\Desktop\JB\Icons\MyIcon2.ico">
         <Link>MyIcon2.ico</Link>
       </None>
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Include="..\..\..\Desktop\JB\Icons\MyIcon2.ico">
+            <Link>MyIcon2.ico</Link>
+        </None>
     </ItemGroup>
 
 </Project>

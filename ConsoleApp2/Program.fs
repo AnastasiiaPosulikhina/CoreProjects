@@ -5,6 +5,8 @@ open System
 // Define a function to construct a message to print
 let from whom =
     sprintf "from %s" whom
+    
+let doubleIt (x : int) = 2 * x
 
 [<EntryPoint>]
 let main argv =

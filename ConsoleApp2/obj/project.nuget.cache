@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GSR4uEW+W6adWmcX4dZcmef8+1YwRKTrMHKPgg7XSOqyjVXT+0Z+vDzm3JfPCsyxoW02BZ+LlHYTYdLOXz5UoA==",
+  "dgSpecHash": "mCCuvSilJ5zB0ulJi/mtJYLGtM+W7npOlqM2KPr7aRRdLW4GkfwQ8q0k2CKurDySyn9+YWe+XnyhJDmQREoytQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\CoreProjects\\ConsoleApp2\\ConsoleApp2.fsproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
